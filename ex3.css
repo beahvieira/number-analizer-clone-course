@@ -1,0 +1,27 @@
+body {
+  font: normal 18px arial;
+  background-color: rgb(32, 173, 255);
+}
+
+header {
+  color: white;
+}
+
+section {
+  width: 600px;
+  padding: 15px;
+  border-radius: 10px;
+  background-color: aliceblue;
+  box-shadow: 5px 5px 10px rgb(61, 61, 61);
+}
+
+select#lista {
+  width: 150px;
+}
+
+footer {
+  color: white;
+  font-style: italic;
+  margin-top: 15px;
+}
+
